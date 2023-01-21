@@ -6,7 +6,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "4.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -28,5 +28,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## Learning Goals",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GriffinsNgeno/react-hooks-react-router-programmatic-navigation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GriffinsNgeno/react-hooks-react-router-programmatic-navigation/issues"
+  },
+  "homepage": "https://github.com/GriffinsNgeno/react-hooks-react-router-programmatic-navigation#readme"
 }
